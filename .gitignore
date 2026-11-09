@@ -1,0 +1,13 @@
+# UltimateHub runtime data (added apps, icons, logs) - personal, do not upload
+hub_data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Builds
+build/
+dist/
+*.spec
