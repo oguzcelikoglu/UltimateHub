@@ -6,9 +6,9 @@ Everything lives in one file: `UltimateHub.pyw`.
 
 ## Screenshots
 
-![UltimateHub main window](screenshots/hub.png)
+![UltimateHub main window](hub.png)
 
-![OpenImage](screenshots/openimage.png)
+![OpenImage](openimage.png)
 
 ## Features
 
